@@ -30,7 +30,7 @@ function countdown() {
         timertime = timertime - 1;
         updatescreen();
     }
-}
+}т
 
 
 
